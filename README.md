@@ -1,3 +1,5 @@
+[Link to the exercise](https://github.com/cabify/rubyChallenge)
+
 # Cabify Ruby Chanllenge
 
 In this document, I explain the solution to the exercise and the motivation of my choices.
